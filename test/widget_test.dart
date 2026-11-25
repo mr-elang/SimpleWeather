@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:responsi_2_mobile/models/location_model.dart';
-import 'package:responsi_2_mobile/models/weather_model.dart';
+import 'package:simple_weather/models/location_model.dart';
+import 'package:simple_weather/models/weather_model.dart';
 
 void main() {
   test('LocationModel serializes and deserializes correctly', () {
