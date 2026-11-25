@@ -1,4 +1,4 @@
-package com.example.responsi_2_mobile
+package com.elang.simpleweather
 
 import io.flutter.embedding.android.FlutterActivity
 
